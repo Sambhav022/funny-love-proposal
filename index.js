@@ -1,4 +1,4 @@
-const correctPassword = 'sambhav'; // Define the correct password
+const correctPassword = 'mogo'; // Define the correct password
 
 function showLoginCard() {
     document.getElementById('login-card').style.display = 'flex';
